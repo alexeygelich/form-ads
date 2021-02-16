@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/form-ads/static/js/main.a2c16744.chunk.js",
-    "main.js.map": "/form-ads/static/js/main.a2c16744.chunk.js.map",
-    "runtime-main.js": "/form-ads/static/js/runtime-main.9617a898.js",
-    "runtime-main.js.map": "/form-ads/static/js/runtime-main.9617a898.js.map",
+    "main.js": "/form-ads/static/js/main.a8dace47.chunk.js",
+    "main.js.map": "/form-ads/static/js/main.a8dace47.chunk.js.map",
+    "runtime-main.js": "/form-ads/static/js/runtime-main.44d7965a.js",
+    "runtime-main.js.map": "/form-ads/static/js/runtime-main.44d7965a.js.map",
     "static/css/2.150d169a.chunk.css": "/form-ads/static/css/2.150d169a.chunk.css",
-    "static/js/2.efcb783e.chunk.js": "/form-ads/static/js/2.efcb783e.chunk.js",
-    "static/js/2.efcb783e.chunk.js.map": "/form-ads/static/js/2.efcb783e.chunk.js.map",
-    "static/js/3.b1737fe0.chunk.js": "/form-ads/static/js/3.b1737fe0.chunk.js",
-    "static/js/3.b1737fe0.chunk.js.map": "/form-ads/static/js/3.b1737fe0.chunk.js.map",
+    "static/js/2.e3cdf55c.chunk.js": "/form-ads/static/js/2.e3cdf55c.chunk.js",
+    "static/js/2.e3cdf55c.chunk.js.map": "/form-ads/static/js/2.e3cdf55c.chunk.js.map",
+    "static/js/3.252c02d8.chunk.js": "/form-ads/static/js/3.252c02d8.chunk.js",
+    "static/js/3.252c02d8.chunk.js.map": "/form-ads/static/js/3.252c02d8.chunk.js.map",
     "index.html": "/form-ads/index.html",
     "static/css/2.150d169a.chunk.css.map": "/form-ads/static/css/2.150d169a.chunk.css.map",
-    "static/js/2.efcb783e.chunk.js.LICENSE.txt": "/form-ads/static/js/2.efcb783e.chunk.js.LICENSE.txt"
+    "static/js/2.e3cdf55c.chunk.js.LICENSE.txt": "/form-ads/static/js/2.e3cdf55c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9617a898.js",
+    "static/js/runtime-main.44d7965a.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.efcb783e.chunk.js",
-    "static/js/main.a2c16744.chunk.js"
+    "static/js/2.e3cdf55c.chunk.js",
+    "static/js/main.a8dace47.chunk.js"
   ]
 }
