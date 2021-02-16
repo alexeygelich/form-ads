@@ -16,9 +16,9 @@ export default function FourthTab() {
 
   return (
     <Form>
-      <InputGroup className="mb-1 mt-3">
-        <InputGroupText className="w-100">
-          <Label>
+      <InputGroup className="mb-2 mt-3">
+        <InputGroupText className="w-100 p-0">
+          <Label className="w-100 mb-0 p-2">
             <Input
               className="mr-3"
               addon
@@ -31,9 +31,9 @@ export default function FourthTab() {
           </Label>
         </InputGroupText>
       </InputGroup>
-      <InputGroup className="mb-1">
-        <InputGroupText className="w-100">
-          <Label>
+      <InputGroup className="mb-2">
+        <InputGroupText className="w-100 p-0">
+          <Label className="w-100 mb-0 p-2">
             <Input
               className="mr-3"
               addon
@@ -46,9 +46,9 @@ export default function FourthTab() {
           </Label>
         </InputGroupText>
       </InputGroup>
-      <InputGroup className="mb-1">
-        <InputGroupText className="w-100">
-          <Label>
+      <InputGroup className="mb-2">
+        <InputGroupText className="w-100 p-0">
+          <Label className="w-100 mb-0 p-2">
             <Input
               className="mr-3"
               addon
@@ -61,9 +61,9 @@ export default function FourthTab() {
           </Label>
         </InputGroupText>
       </InputGroup>
-      <InputGroup className="mb-1">
-        <InputGroupText className="w-100">
-          <Label>
+      <InputGroup className="mb-2">
+        <InputGroupText className="w-100 p-0">
+          <Label className="w-100 mb-0 p-2">
             <Input
               className="mr-3"
               addon
@@ -76,9 +76,9 @@ export default function FourthTab() {
           </Label>
         </InputGroupText>
       </InputGroup>
-      <InputGroup className="mb-1">
-        <InputGroupText className="w-100">
-          <Label>
+      <InputGroup className="mb-2">
+        <InputGroupText className="w-100 p-0">
+          <Label className="w-100 mb-0 p-2">
             <Input
               className="mr-3"
               addon
